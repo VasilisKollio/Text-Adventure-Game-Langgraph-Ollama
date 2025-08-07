@@ -46,9 +46,14 @@ Player Input → LangGraph → Ollama AI → Game Response → Updated State
    ```bash
    git clone https://github.com/VasilisKollio/Text-Adventure-Game-Langgraph-Ollama.git
    cd Text-Adventure-Game-Langgraph-Ollama
+   ```
+   **Setup a python virtual envirnment**
+   ```bash
+   ./venv/Scripts/activate
+   ```
+   ```bash
    python text-adventure-game/setup.py
    ```
-**Don't forget to setup a virtual environment**
 
 ## How to Play
 
