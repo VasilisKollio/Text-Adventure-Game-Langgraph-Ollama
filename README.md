@@ -48,6 +48,7 @@ Player Input → LangGraph → Ollama AI → Game Response → Updated State
    cd Text-Adventure-Game-Langgraph-Ollama
    python text-adventure-game/setup.py
    ```
+**Don't forget to setup a virtual environment**
 
 ## How to Play
 
